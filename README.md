@@ -2,7 +2,7 @@
 
 You can view my Web Development Project codes at: https://gist.github.com/rakeshbaddi
 
-    OR 
+OR
 
 You can see them live at the following links:
 
